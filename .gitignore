@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Large media files
+*.mp4
+*.zip
+*.mov
+*.avi
+
+# Output directories
+output/
+uploads/
+GirlsNav_frames/
+
+# Local development
+*.db
+*.sqlite3
